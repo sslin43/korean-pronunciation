@@ -1,0 +1,16 @@
+# OS 系統暫存檔
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# 編輯器設定檔
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
